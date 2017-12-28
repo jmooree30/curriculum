@@ -11,7 +11,7 @@ While Git works on your *local* machine, GitHub is a *remote* storage facility o
 
 In this lesson we will briefly explore the history of Git, what it is and what it's useful for.
 
-In the next lesson we will go over the basic workflow of using Git which should enhance your understanding and demonstrate why Git is so useful.
+I n the next lesson we will go over the basic workflow of using Git which should enhance your understanding and demonstrate why Git is so useful.
 
 And finally, you will set up a project with Git and this will serve as a template for setting up your future projects.
 
